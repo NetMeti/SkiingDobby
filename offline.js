@@ -1,0 +1,33 @@
+﻿{
+	"version": 1762589088,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/scoreui.png",
+		"images/snowfade-sheet0.png",
+		"images/swipearea.png",
+		"images/title-sheet0.png",
+		"images/twitterbutton-sheet0.png",
+		"images/twittershadow-sheet0.png",
+		"images/snowtrail.png",
+		"images/snow.png",
+		"images/dude-sheet0.png",
+		"images/dude-sheet1.png",
+		"images/trees-sheet0.png",
+		"images/trees-sheet1.png",
+		"images/dudeshadow-sheet0.png",
+		"images/dudeshadow-sheet1.png",
+		"media/bushhit.m4a",
+		"media/bushhit.ogg",
+		"media/wind.m4a",
+		"media/wind.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
